@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "632277034430",
+    "project_id": "practica2-avilaangel",
+    "storage_bucket": "practica2-avilaangel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632277034430:android:71fdb260a010df91c985ef",
+        "android_client_info": {
+          "package_name": "android.example.Practica2AviAng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632277034430-u7jhfrjhoggdm2fe9lmb114lviekb1gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA51GeIM95FhbkvyZPGc3hb3ONwqFF8K5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632277034430-u7jhfrjhoggdm2fe9lmb114lviekb1gg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632277034430:android:812f6c56878ea856c985ef",
+        "android_client_info": {
+          "package_name": "com.example.examenavimar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632277034430-u7jhfrjhoggdm2fe9lmb114lviekb1gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA51GeIM95FhbkvyZPGc3hb3ONwqFF8K5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632277034430-u7jhfrjhoggdm2fe9lmb114lviekb1gg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632277034430:android:8424c1b56a58a1abc985ef",
+        "android_client_info": {
+          "package_name": "com.example.practica2aviang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632277034430-u7jhfrjhoggdm2fe9lmb114lviekb1gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA51GeIM95FhbkvyZPGc3hb3ONwqFF8K5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632277034430-u7jhfrjhoggdm2fe9lmb114lviekb1gg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
